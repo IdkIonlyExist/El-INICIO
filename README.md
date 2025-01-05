@@ -1,2 +1,2 @@
 # El-INICIO
-Practicar en github
+Practicar en github desde cero
